@@ -1,4 +1,4 @@
 # Sahanakulkarni
-this is my git repository.
+this is my first git repository.
 <br>
 Author-Sahana kulkarni
